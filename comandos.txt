@@ -1,0 +1,11 @@
+Comandos a instalar a la app
+
+    npm init -y (inicializar el package.json)
+
+Framework de nodejs
+    npm i express
+Complementos del Framework
+    npm i express-handlebars
+Para trabajar con peticiones http
+    npm i body-parser
+
