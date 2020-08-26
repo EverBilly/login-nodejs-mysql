@@ -9,3 +9,20 @@ Complementos del Framework
 Para trabajar con peticiones http
     npm i body-parser
 
+Instalar ORM sequilize
+    npm i sequelize
+
+Instalar MYSQL
+ npm i mysql mysql2
+
+Encriptar passwords
+ npm i bcryptjs
+
+Validar datos que se estan pasando
+    npm i express-validator
+
+Instalar para generar tokens
+    npm i jwt-simple
+
+Para manejar fechas
+    npm i moment
